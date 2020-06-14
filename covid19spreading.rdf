@@ -82,7 +82,7 @@
 
     <owl:NamedIndividual rdf:about="&untitled-ontology-3;Alentejo">
         <rdf:type rdf:resource="&untitled-ontology-3;Regiao"/>
-        <Internamentos rdf:datatype="&xsd;integer">50</Internamentos>
+        <Internamentos rdf:datatype="&xsd;integer">9999999</Internamentos>
         <Infecoes rdf:datatype="&xsd;integer">50</Infecoes>
         <Testes rdf:datatype="&xsd;integer">50</Testes>
     </owl:NamedIndividual>
